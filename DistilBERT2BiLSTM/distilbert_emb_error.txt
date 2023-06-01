@@ -1,0 +1,10 @@
+/var/spool/slurm/d/job04678/slurm_script: sor: 13: module: parancs nem található
+[nltk_data] Downloading package punkt to
+[nltk_data]     /home/ismael.shadi/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /home/ismael.shadi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Token indices sequence length is longer than the specified maximum sequence length for this model (535 > 512). Running this sequence through the model will result in indexing errors
+/usr/local/lib/python3.8/site-packages/numpy/lib/npyio.py:521: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  arr = np.asanyarray(arr)
