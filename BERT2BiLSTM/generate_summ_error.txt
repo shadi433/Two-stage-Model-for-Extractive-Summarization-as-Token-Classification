@@ -1,0 +1,14 @@
+/var/spool/slurm/d/job04665/slurm_script: sor: 13: module: parancs nem található
+2023-05-28 10:51:37.349474: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-05-28 10:51:38.770079: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[nltk_data] Downloading package punkt to
+[nltk_data]     /home/ismael.shadi/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /home/ismael.shadi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+generate_summ.py:85: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  test_inputs=np.array(embbidings)
+generate_summ.py:118: FutureWarning: load_metric is deprecated and will be removed in the next major version of datasets. Use 'evaluate.load' instead, from the new library 🤗 Evaluate: https://huggingface.co/docs/evaluate
+  rouge = load_metric("rouge")
